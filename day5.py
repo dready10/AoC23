@@ -1,4 +1,4 @@
-### Chat log: 
+### Chat log: https://chat.openai.com/share/51278931-1c08-47e8-b598-e2501bd8a4ba
 
 ### Comments that begin with ### are written by me. Comments with one # are
 ### from chatGPT. The ### contain some of my thoughts.
